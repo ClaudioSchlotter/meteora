@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.texto-icone {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.cor-fonte-icones {
+    color: #DAFF01;
+}
+
+.fonte-precos {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.botao-produtos {
+    background-color: #9353FF;
+    color: #ffffff;
+}
+
+.botao-produtos:hover {
+    background-color: #7d49d6;
+    cursor: pointer;
+    color: white;
+}
+
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 350px;
+}
+
+.card-largura {
+    max-width: 18rem;
+}
